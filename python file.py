@@ -19,7 +19,7 @@ def sort_and_print(processes, sort_option):
     for process in processes:
         print(process)
 
-# Sample process table
+# Sample process tab
 processes = [
     Process("P1", "VSCode", 100, "MID"),
     Process("P23", "Eclipse", 234, "MID"),
